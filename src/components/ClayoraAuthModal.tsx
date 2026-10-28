@@ -189,7 +189,7 @@ export const ClayoraAuthModal: React.FC<ClayoraAuthModalProps> = ({
                   type="text"
                   value={customerName}
                   onChange={(e) => setCustomerName(e.target.value)}
-                  placeholder="e.g. Sugeenthiran H."
+                  placeholder="e.g. Anushya"
                   className="w-full px-3.5 py-2.5 bg-stone-50 border border-stone-300 rounded-lg text-xs sm:text-sm text-stone-900 focus:outline-none focus:ring-2 focus:ring-[#C25E2E]"
                 />
               </div>
