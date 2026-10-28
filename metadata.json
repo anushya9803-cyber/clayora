@@ -1,0 +1,6 @@
+{
+  "name": "Responsive Multi-Device Web App",
+  "description": "High-craft responsive web application engineered for all device form factors with tailored mobile, tablet, and desktop layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
