@@ -203,7 +203,7 @@ export const ClayoraCartDrawer: React.FC<ClayoraCartDrawerProps> = ({
                   type="text"
                   value={customerName}
                   onChange={(e) => setCustomerName(e.target.value)}
-                  placeholder="e.g. Sugeenthiran H."
+                  placeholder="e.g. Anushya"
                   className="w-full px-3 py-2 bg-stone-50 border border-stone-300 rounded-lg text-xs text-stone-900 focus:outline-none focus:ring-2 focus:ring-[#C25E2E]"
                 />
               </div>
